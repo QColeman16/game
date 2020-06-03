@@ -1,5 +1,5 @@
-# html-starter
-A starter package for basic HTML projects
+# HTML 5 Game
+My Javascript Game
 
 ```sh
 cd /var/www
